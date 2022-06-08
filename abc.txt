@@ -1,2 +1,3 @@
 hello
-
+day3_08062022
+now trying to add commit directly into git hub
