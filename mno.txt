@@ -1,0 +1,3 @@
+hello
+trying conflicts concept
+today is sunday on local
