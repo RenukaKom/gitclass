@@ -1,0 +1,4 @@
+day3
+trying to see conflicts in git
+this is line 1
+this is line 2
